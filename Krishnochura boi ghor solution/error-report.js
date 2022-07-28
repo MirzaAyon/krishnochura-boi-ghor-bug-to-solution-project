@@ -91,7 +91,7 @@
 //ekhn dekha jache ager gula nai
 //ebar wish list e card add hochee kina ta inspact kore dkhbo
 
-৬. Add to cart কাজ করেনা।
+// ৬. Add to cart কাজ করেনা।
 //add to cart e click korle cart e show hyna
 //tai addtocart e inspact krbo
 //click korle
